@@ -1,4 +1,4 @@
-$(function($) {
+$(document).ready(function () {
 	$('body').MusicPlayer({
 		firstPlaying: 0,
 		autoplay: false,

@@ -1,4 +1,4 @@
-		var can1 = $("<canvas></canvas>");
+var can1 = $("<canvas></canvas>");
 
 $("body").css({"margin" : "0", "background" : "#121212", "overflow" : "hidden"});
 $("body").eq(0).prepend(can1);
